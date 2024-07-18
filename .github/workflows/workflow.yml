@@ -9,3 +9,5 @@ jobs:
         steps:
             - name: Echo My name
               run: echo "Aastvik"
+            - name: Echo Clg
+              run: echo "DTU"
